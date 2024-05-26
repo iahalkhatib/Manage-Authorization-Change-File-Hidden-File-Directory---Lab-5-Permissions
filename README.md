@@ -20,3 +20,17 @@
 # 4. I will change the directory permissions using "chmod g-x drafts" to remove group execute permissions 
 
 ![image](https://github.com/iahalkhatib/Manage-Authorization-Change-File-Hidden-File-Directory-Permissions-Lab-5/assets/170050432/e5753e0e-7780-43b3-91d4-aea3281465d1)
+
+
+
+# Conclusion 
+
+*examined file and directory permissions
+
+
+*changed permissions on files
+
+
+*changed permissions on directories
+
+
